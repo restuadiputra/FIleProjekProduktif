@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="abu2">#333333</color>
+    <color name="tes">#E0e0e0</color>
+    <color name="cd">#F5F5F5</color>
+    <color name="putih">#EDEDED</color>
+    <color name="biru">#122D4F</color>
+    <color name="putih2">#F9F7E4</color>
+    <color name="red">#FF0000</color>
+    <color name="Hijau">#00FF00</color>
+    <color name="Kuning">#FFFF00</color>
+    <color name="Emas">#Ffd700</color>
+
+</resources>
